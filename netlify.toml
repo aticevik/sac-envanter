@@ -1,0 +1,8 @@
+[build]
+  functions = "netlify/functions"
+  publish = "."
+[[redirects]]
+  from = "/api/xml"
+  to = "/.netlify/functions/xml"
+  status = 200
+  force = true

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sac Levha Stok</title>
+  <style>/* ... önceki CSS stilleri ... */</style>
+</head>
+<body>
+  <h1>Sac Levha Envanter</h1>
+  <label for="kalinlikFilter">Kalınlık filtresi:</label>
+  <select id="kalinlikFilter">
+    <option value="Hepsi">Hepsi</option>
+  </select>
+  <table id="stokTable">
+    <thead><tr><th>Kod</th><th>En</th><th>Boy</th><th>Kalınlık</th><th>Malzeme</th></tr></thead>
+    <tbody></tbody>
+  </table>
+  <script>
+    const xmlUrl = "/api/xml";
+    async function loadXML() {
+      const res = await fetch(xmlUrl);
+      const text = await res.text();
+      const xml = new DOMParser().parseFromString(text, "application/xml");
+      const infos = Array.from(xml.getElementsByTagName("StockSheetInfo"));
+      const tbody = document.querySelector("#stokTable tbody");
+      const kalSet = new Set();
+      infos.forEach(info => {
+        const kod = info.getElementsByTagName("Code")[0]?.textContent || "-";
+        const en = info.getElementsByTagName("Width")[0]?.textContent || "-";
+        const boy = info.getElementsByTagName("Height")[0]?.textContent || "-";
+        const kal = info.getElementsByTagName("Thickness")[0]?.textContent || "-";
+        const mal = info.getElementsByTagName("MaterialName")[0]?.textContent || "-";
+        kalSet.add(kal);
+        const tr = document.createElement("tr");
+        tr.innerHTML = `<td>${kod}</td><td>${en}</td><td>${boy}</td><td>${kal}</td><td>${mal}</td>`;
+        tbody.appendChild(tr);
+      });
+      [...kalSet].sort((a,b)=>parseFloat(a)-parseFloat(b)).forEach(k => {
+        const o = document.createElement("option");
+        o.value = k; o.textContent = k + " mm";
+        document.getElementById("kalinlikFilter").append(o);
+      });
+      document.getElementById("kalinlikFilter").onchange = () => {
+        const sel = document.getElementById("kalinlikFilter").value;
+        document.querySelectorAll("#stokTable tbody tr").forEach(r => {
+          r.style.display = (sel==="Hepsi" || r.children[3].textContent === sel) ? "" : "none";
+        });
+      };
+    }
+    loadXML();
+  </script>
+</body>
+</html>
