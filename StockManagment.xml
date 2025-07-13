@@ -256,22 +256,5 @@
       <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
-    <StockSheetInfo>
-      <StockSheetInfoId>16</StockSheetInfoId>
-      <Code>F9999</Code>
-      <MachineId>1</MachineId>
-      <MachineName>Plasma</MachineName>
-      <MaterialId>17</MaterialId>
-      <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>200</MaterialThicknessId>
-      <MaterialThickness>10</MaterialThickness>
-      <Height>1000</Height>
-      <Width>1000</Width>
-      <Quantity>1</Quantity>
-      <IsBlocked>false</IsBlocked>
-      <Cost>0</Cost>
-      <Date>2025-07-13T00:00:00</Date>
-      <MeasurementUnit>MM</MeasurementUnit>
-    </StockSheetInfo>
   </StockSheetInfos>
 </StockManager>
