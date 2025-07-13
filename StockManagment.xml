@@ -8,14 +8,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>83</MaterialThicknessId>
+      <MaterialThicknessId>150</MaterialThicknessId>
       <MaterialThickness>5</MaterialThickness>
       <Height>300</Height>
       <Width>1500</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-06-27T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -25,14 +25,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>81</MaterialThicknessId>
+      <MaterialThicknessId>130</MaterialThicknessId>
       <MaterialThickness>3</MaterialThickness>
       <Height>560</Height>
       <Width>1480</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-06-27T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -42,14 +42,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>83</MaterialThicknessId>
+      <MaterialThicknessId>150</MaterialThicknessId>
       <MaterialThickness>5</MaterialThickness>
       <Height>1070</Height>
       <Width>2010</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-06-27T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -59,14 +59,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>96</MaterialThicknessId>
+      <MaterialThicknessId>200</MaterialThicknessId>
       <MaterialThickness>10</MaterialThickness>
       <Height>300</Height>
       <Width>1500</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-06-27T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -76,14 +76,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>84</MaterialThicknessId>
+      <MaterialThicknessId>160</MaterialThicknessId>
       <MaterialThickness>6</MaterialThickness>
       <Height>510</Height>
       <Width>1500</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-07-11T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -93,14 +93,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>82</MaterialThicknessId>
+      <MaterialThicknessId>140</MaterialThicknessId>
       <MaterialThickness>4</MaterialThickness>
       <Height>220</Height>
       <Width>1500</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-07-11T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -110,14 +110,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>54</MaterialThicknessId>
+      <MaterialThicknessId>120</MaterialThicknessId>
       <MaterialThickness>2</MaterialThickness>
       <Height>240</Height>
       <Width>1500</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-07-11T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -127,14 +127,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>84</MaterialThicknessId>
+      <MaterialThicknessId>160</MaterialThicknessId>
       <MaterialThickness>6</MaterialThickness>
       <Height>810</Height>
       <Width>1040</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-07-11T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -144,14 +144,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>82</MaterialThicknessId>
+      <MaterialThicknessId>140</MaterialThicknessId>
       <MaterialThickness>4</MaterialThickness>
       <Height>280</Height>
       <Width>2150</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-07-11T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -161,14 +161,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>96</MaterialThicknessId>
+      <MaterialThicknessId>200</MaterialThicknessId>
       <MaterialThickness>10</MaterialThickness>
       <Height>270</Height>
       <Width>600</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-07-11T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -178,14 +178,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>485</MaterialThicknessId>
+      <MaterialThicknessId>240</MaterialThicknessId>
       <MaterialThickness>14</MaterialThickness>
       <Height>1510</Height>
       <Width>2585</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-07-12T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -195,14 +195,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>284</MaterialThicknessId>
+      <MaterialThicknessId>280</MaterialThicknessId>
       <MaterialThickness>18</MaterialThickness>
       <Height>650</Height>
       <Width>1585</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-07-12T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -212,14 +212,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>97</MaterialThicknessId>
+      <MaterialThicknessId>220</MaterialThicknessId>
       <MaterialThickness>12</MaterialThickness>
       <Height>1225</Height>
       <Width>1515</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-07-12T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -229,14 +229,14 @@
       <MachineName>Plasma</MachineName>
       <MaterialId>17</MaterialId>
       <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>485</MaterialThicknessId>
+      <MaterialThicknessId>240</MaterialThicknessId>
       <MaterialThickness>14</MaterialThickness>
       <Height>1070</Height>
       <Width>1130</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
-      <Date>2025-07-12T00:00:00</Date>
+      <Date>2025-07-13T00:00:00</Date>
       <MeasurementUnit>MM</MeasurementUnit>
     </StockSheetInfo>
     <StockSheetInfo>
@@ -244,12 +244,29 @@
       <Code>F999</Code>
       <MachineId>1</MachineId>
       <MachineName>Plasma</MachineName>
-      <MaterialId>18</MaterialId>
+      <MaterialId>17</MaterialId>
       <MaterialName>StainlessSteel</MaterialName>
-      <MaterialThicknessId>130</MaterialThicknessId>
+      <MaterialThicknessId>110</MaterialThicknessId>
       <MaterialThickness>1</MaterialThickness>
       <Height>10</Height>
       <Width>10</Width>
+      <Quantity>1</Quantity>
+      <IsBlocked>false</IsBlocked>
+      <Cost>0</Cost>
+      <Date>2025-07-13T00:00:00</Date>
+      <MeasurementUnit>MM</MeasurementUnit>
+    </StockSheetInfo>
+    <StockSheetInfo>
+      <StockSheetInfoId>16</StockSheetInfoId>
+      <Code>F9999</Code>
+      <MachineId>1</MachineId>
+      <MachineName>Plasma</MachineName>
+      <MaterialId>17</MaterialId>
+      <MaterialName>MildSteel</MaterialName>
+      <MaterialThicknessId>200</MaterialThicknessId>
+      <MaterialThickness>10</MaterialThickness>
+      <Height>1000</Height>
+      <Width>1000</Width>
       <Quantity>1</Quantity>
       <IsBlocked>false</IsBlocked>
       <Cost>0</Cost>
