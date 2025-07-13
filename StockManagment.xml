@@ -244,9 +244,9 @@
       <Code>F999</Code>
       <MachineId>1</MachineId>
       <MachineName>Plasma</MachineName>
-      <MaterialId>17</MaterialId>
-      <MaterialName>MildSteel</MaterialName>
-      <MaterialThicknessId>53</MaterialThicknessId>
+      <MaterialId>18</MaterialId>
+      <MaterialName>StainlessSteel</MaterialName>
+      <MaterialThicknessId>130</MaterialThicknessId>
       <MaterialThickness>1</MaterialThickness>
       <Height>10</Height>
       <Width>10</Width>
